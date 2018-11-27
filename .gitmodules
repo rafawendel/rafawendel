@@ -1,4 +1,4 @@
-[submodule "docs"]
+[submodule "rafawendel.github.io"]
 	path = docs
 	url = https://github.com/rafawendel/rafawendel.github.io.git
 	branch = master
