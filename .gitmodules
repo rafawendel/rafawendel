@@ -2,3 +2,6 @@
 	path = docs
 	url = https://github.com/rafawendel/rafawendel.github.io.git
 	branch = master
+[submodule "gabrieldutra.github.io"]
+	path = gabrieldutra.github.io
+	url = https://github.com/gabrieldutra/gabrieldutra.github.io.git

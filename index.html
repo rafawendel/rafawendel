@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+/* --- General Pen Styles --- */
+body{
+	font-family: Georgia, serif;
+	color: #333;
+	font-size: 1.4rem;
+	line-height: 2rem;
+}
+h1{
+	font-size: 2.6rem;
+	line-height: 2.6rem;
+}
+.content{
+	margin: 0 auto;
+	max-width: 90%;
+	width: 720px;
+}
+main{
+	padding: 1% 0;
+	position: relative;
+	background: #f5f5f5;
+	box-shadow: 0px -10px 60px rgba(0,0,0,0.25);
+    height: 100%;
+}
+/* --- Important Pen Styles --- */
+
+.hero{
+	overflow: hidden;
+	padding-bottom: 70%;
+}
+.hero img{
+	position: fixed;
+	top: 0%;
+    left: 50%;
+	max-width: 200%;
+	width: 100%;
+	transform: translateX(-50%);
+    will-change: -webkit-filter, filter, transform;
+}
+
+.parallax {
+  perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.parallax__layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.parallax__layer--base {
+  transform: translateZ(0);
+}
+.parallax__layer--back {
+  transform: translateZ(-1px);
+}
+.parallax__layer--back {
+  transform: translateZ(-1px) scale(2);
+}
+.parallax__layer--deep {
+  transform: translateZ(-2px) scale(3);
+}
+</style>
+</head>
+<body>
+    <div class="parallax">
+        <header class="hero">
+            <div class="parallax__layer parallax__layer--back">
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/927610/pexels-photo-587409.jpeg">
+            </div>
+        </header>
+        <main role="main">
+            <div class="parallax__layer parallax__layer--base content">
+                <h1>Zoom Hero Image on Scroll</h1>
+                <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas sed diam eget risus varius blandit sit amet non magna. Nulla vitae elit libero, a pharetra augue. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
+                <p>Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>		
+            </div>
+        </main>
+    </div>
+</body>
+</html> 
