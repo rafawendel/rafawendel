@@ -25,8 +25,17 @@
 
 <!-- Social Badges -->
 <div>
+  <a href="mailto:rafawendel2010+github@gmail.com" target="_blank" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rafawendel/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://instagram.com/rafawendel2010" target="_blank" title="Instagram">
-    <img width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://dev.to/rafawendel" target="_blank" title="Dev.to">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
 </div>
 
