@@ -13,9 +13,13 @@
   <img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br />
+
 ---
+
 <!-- Social Badges -->
 <div>
   <a href="https://instagram.com/rafawendel2010" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  ![Snake animation]()
+
+![Snake animation](https://github.com/rafawendel/rafawendel/blob/output/github-contribution-grid-snake.svg)
+
 </div>
