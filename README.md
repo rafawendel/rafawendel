@@ -1,4 +1,6 @@
-## Hi there, I'm Rafael Wendel!
+## Hi, I'm Rafael Wendel
+
+### Web Developer with xp in React and Javascript
 
 <div height="190em">
   <a href="https://github.com/rafawendel">
@@ -6,6 +8,25 @@
     <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafawendel&layout=compact&langs_count=7&theme=dracula">
   </a>
 </div>
+
+## About me
+
+🤩 Getting back to work after taking a break
+
+📊 Previously worked developing [Databricks SQL](https://www.youtube.com/watch?v=ADBipSPxzaY) with clever folks
+
+🩺 Also medicine undergraduate, but not really into it
+
+🌱 Learning: becoming a types aficionado, systems design
+
+🗣 Ping me about: UI design, responsiveness, the web, a11y, i18n, CSS best practices
+
+🌍 Supporter for great edu projects: 🌷 KhanAcademy, 🦉 Duolingo
+
+❤️‍🔥 Embracer of best practices by design, incremental compounding changes and behavioral theory
+
+🧙🏼‍♂️ Strongly inclined towards magical classes
+
 <!-- Dev Badges -->
 <div width="100%" align="center">
   <img align="center" alt="Javascript Icon" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +43,8 @@
 </div>
 
 ---
+
+## Where to find me
 
 <!-- Social Badges -->
 <div>
