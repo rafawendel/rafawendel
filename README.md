@@ -11,15 +11,13 @@
 
 ## About me
 
-🤩 Getting back to work after taking a break
-
-📊 Previously worked developing [Databricks SQL](https://www.youtube.com/watch?v=ADBipSPxzaY) with clever folks
+📊 Frontend Engineer @ [Promptly](https://www.promptlyhealth.com/en/)
 
 🩺 Also medicine undergraduate, but not really into it
 
-🌱 Learning: becoming a types aficionado, systems design
+🌱 Learning: systems design, getting hold of more abstract stuff and some data science
 
-🗣 Ping me about: UI design, responsiveness, the web, a11y, i18n, CSS best practices
+🗣 Ping me about: UI design, responsiveness, the web, a11y, i18n, CSS best practices, science
 
 🌍 Supporter for great edu projects: 🌷 KhanAcademy, 🦉 Duolingo
 
