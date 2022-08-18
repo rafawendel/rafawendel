@@ -13,7 +13,7 @@
 
 📊 Frontend Engineer @ [Promptly](https://www.promptlyhealth.com/en/)
 
-🩺 Also medicine undergraduate, but not really into it
+🩺 Also graduate in Medicine, but not really into practicing
 
 🌱 Learning: systems design, getting hold of more abstract stuff and some data science
 
@@ -22,6 +22,8 @@
 🌍 Supporter for great edu projects: 🌷 KhanAcademy, 🦉 Duolingo
 
 ❤️‍🔥 Embracer of best practices by design, incremental compounding changes and behavioral theory
+
+🚲 Bike rider and favorable of a systemic approach for a greener future
 
 🧙🏼‍♂️ Strongly inclined towards magical classes
 
