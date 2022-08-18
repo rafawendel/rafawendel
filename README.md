@@ -1,6 +1,6 @@
 ## Hi, I'm Rafael Wendel
 
-### Web Developer with xp in React and Javascript
+### Frontend Engineer with xp in React and Javascript
 
 <div height="190em">
   <a href="https://github.com/rafawendel">
