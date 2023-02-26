@@ -11,13 +11,13 @@
 
 ## About me
 
-📊 Frontend Engineer @ [Promptly](https://www.promptlyhealth.com/en/)
+📊 Software Engineer and Data Analyst @ [Promptly](https://www.promptlyhealth.com/en/)
 
-🩺 Also graduate in Medicine, but not really into practicing
+🩺 Also graduate of Medicine, but not really into practicing
 
-🌱 Learning: systems design, getting hold of more abstract stuff and some data science
+🌱 Learning: some data science, delving into systems design
 
-🗣 Ping me about: UI design, responsiveness, the web, a11y, i18n, CSS best practices, science
+🗣 Ping me about: UI design, responsiveness, the web, a11y, i18n, CSS best practices, science, urban design
 
 🌍 Supporter for great edu projects: 🌷 KhanAcademy, 🦉 Duolingo
 
