@@ -11,7 +11,7 @@
 
 ## About me
 
-📊 Software Engineer and Data Analyst @ [Promptly](https://www.promptlyhealth.com/en/)
+📊 Freelance Software Engineer & Data Analyst
 
 🩺 Also graduate of Medicine, but not really into practicing
 
